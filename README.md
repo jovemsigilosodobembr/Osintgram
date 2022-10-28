@@ -9,7 +9,7 @@
 
                         
 
-Quaisquer ações e/ou atividades relacionadas ao OSINT são de sua exclusiva responsabilidade. O uso indevido deste kit de ferramentas pode resultar em acusações criminais contra as pessoas em questão. Os contribuidores não serão responsabilizados no caso de quaisquer acusações criminais serem apresentadas contra qualquer indivíduo que use indevidamente este kit de ferramentas para infringir a lei.
+Quaisquer ações e/ou atividades relacionadas ao Osintgram são de sua exclusiva responsabilidade. O uso indevido deste kit de ferramentas pode resultar em acusações criminais contra as pessoas em questão. Os contribuidores não serão responsabilizados no caso de quaisquer acusações criminais serem apresentadas contra qualquer indivíduo que use indevidamente este kit de ferramentas para infringir a lei.
 
 Este kit de ferramentas contém materiais que podem ser potencialmente prejudiciais ou perigosos para as mídias sociais . Consulte as leis de sua província/país antes de acessar, usar ou de qualquer outra forma utilizar isso de maneira incorreta.
 
@@ -39,4 +39,22 @@ apt-get install libncurses5-dev libffi-dev
 
 ```
  apt-get install python-pip
+```
+```
+  yum install python-pip
+```
+
+
+<h3><p align="center">Uma forma alternativa de instalação indicada para quem usa o Python 3 é a seguinte:</p></h3>
+
+
+```
+cd /opt
+
+```
+wget https://bootstrap.pypa.io/get-pip.py
+```
+
+```
+python3 get-pip.py
 ```
