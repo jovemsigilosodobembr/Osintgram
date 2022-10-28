@@ -33,3 +33,10 @@ apt-get install libncurses5-dev libffi-dev
 ```
 
 
+
+
+<h3><p align="center">Instalando o pip</p></h3>
+
+```
+ apt-get install python-pip
+```
