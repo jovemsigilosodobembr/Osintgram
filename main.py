@@ -93,7 +93,7 @@ def completer(text, state):
         return None
 
 def _quit():
-    pc.printout("Goodbye!\n", pc.RED)
+    pc.printout("tchau tchau!\n", pc.RED)
     sys.exit(0)
 
 
