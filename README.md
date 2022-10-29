@@ -60,7 +60,7 @@ python3 get-pip.py
 ```
 apt-get install requests
 ```
-----------------------------------------------------
+
   
 ```
 pip3 install requests
