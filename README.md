@@ -56,10 +56,12 @@ wget https://bootstrap.pypa.io/get-pip.py
 python3 get-pip.py
 ```
 <h3><p align="center"Intalação request "IMPORTANTE</p></h3>
+  
 ```
 apt-get install requests
 ```
-
+----------------------------------------------------
+  
 ```
 pip3 install requests
 ```
