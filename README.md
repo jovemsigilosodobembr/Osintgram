@@ -32,7 +32,7 @@ apt-get install libncurses5-dev
 apt-get install libncurses5-dev libffi-dev
 ```
 
-
+-----------------------------------------------------
 
 
 <h3><p align="center">Instalando o pip</p></h3>
@@ -47,14 +47,19 @@ apt-get install libncurses5-dev libffi-dev
 
 <h3><p align="center">Uma forma alternativa de instalação indicada para quem usa o Python 3 é a seguinte:</p></h3>
 
-
 ```
 cd /opt
-
-```
 wget https://bootstrap.pypa.io/get-pip.py
 ```
 
 ```
 python3 get-pip.py
+```
+<h3><p align="center"Intalação request "IMPORTANTE</p></h3>
+```
+apt-get install requests
+```
+
+```
+pip3 install requests
 ```
