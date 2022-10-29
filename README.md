@@ -50,11 +50,10 @@ apt-get install libncurses5-dev libffi-dev
 ```
 cd /opt
 wget https://bootstrap.pypa.io/get-pip.py
-```
-
-```
 python3 get-pip.py
 ```
+
+----
 
 <h3><p align="center"Intalação request: importante🤖</p></h3>
   
